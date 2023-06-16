@@ -40,7 +40,7 @@ const wbot7 = new Robot7Proxy();
 wbot7.attack_missile();
 
 
-/* 
+/*
     Proxy 객체
     https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Proxy
 
